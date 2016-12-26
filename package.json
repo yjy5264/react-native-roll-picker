@@ -1,0 +1,15 @@
+{
+  "name": "react-native-roll-picker",
+  "version": "1.0.0",
+  "description": "A cross-platform (iOS&Android), selector/picker component for React Native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "react": "^15.1.0",
+    "react-native": "^0.27.0"
+  },
+  "author": "yjy",
+  "license": "MIT"
+}
