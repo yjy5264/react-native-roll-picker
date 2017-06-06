@@ -20,7 +20,7 @@ onRowChange = {index => {}} // when row changed, return the index
 <br>Function
 ------
 ```javascript
-ref.setDataSource(json) // reset data with json
+ref.setDataSource(data) // reset data with json type array
 ```
 <br>Usage
 ------
