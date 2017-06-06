@@ -13,7 +13,7 @@ npm install react-native-roll-picker --save
 <br>Props
 ------
 ```javascript
-data = [{a: 'bbb'}] // json type array
+data = {[{a: 'bbb'}]} // json type array
 name = 'a' // json name with {a: 'bbb'}
 onRowChange = {index => {}} // when row changed, return the index
 ```
@@ -28,7 +28,7 @@ ref.setDataSource(data) // reset data with json type array
 import Picker from 'react-native-roll-picker'
 
 <Picker 
-    data = [{a: 'bbb'}]
+    data = {[{a: 'bbb'}]}
     ref = '_Picker'
     name = 'a'
     onRowChange = {index => {}}
