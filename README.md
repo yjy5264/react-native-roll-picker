@@ -34,5 +34,5 @@ import Picker from 'react-native-roll-picker'
     onRowChange = {index => {}}
 />
 
-this.refs._Picker.setDataSource(json); 
+this.refs._Picker.setDataSource(data); 
 ```
