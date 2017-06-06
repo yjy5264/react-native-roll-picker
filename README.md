@@ -1,7 +1,7 @@
 # react-native-roll-picker
+
 A cross-platform (iOS&amp;Android), selector/picker component for React Native.
-<br>
-------
+
 <br>Demo
 ------
 <br>![](https://github.com/yjy5264/react-native-roll-picker/raw/master/image/picker.gif)
